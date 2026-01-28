@@ -20,7 +20,7 @@ The only modification performed was a **bottom carving (hollowing)** using the *
 - Generate Support: Yes-15.80g
 
 ### Design Preview
-![Screenshot (411)]
-![Screenshot (412)]
+![Screenshot (411)].png
+![Screenshot (412)].png
 
 I tried to make the dimensions of the robot as required, but I didn't change the **width** of the base, so I couldn't meet the **120mm** width requirement.
