@@ -13,7 +13,7 @@ The only modification performed was a **bottom carving (hollowing)** using the *
 ### Printing Setup
 - Printer: AnkerMake M5C
 - Nozzle: 0.4 mm
-- Filament: PLA+ Black
+- Filament: ABS Because it can withstand heat and weight
 - Layer Height: 0.1 mm
 - Wall loops: 4 mm
 - Sparse infill desity: 50%
@@ -21,3 +21,6 @@ The only modification performed was a **bottom carving (hollowing)** using the *
 
 ### Design Preview
 ![Screenshot (409)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(409).png)
+![Screenshot (410)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(410).png)
+
+I tried to make the dimensions of the robot as required, but I didn't change the **width** of the base, so I couldn't meet the **120mm** width requirement.
