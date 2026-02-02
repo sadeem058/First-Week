@@ -1,13 +1,13 @@
-### I letter Design
+## I letter Design
 
-## Design Preview
+### Design Preview
 ![I-before](https://github.com/sadeem058/First-Week/blob/main/I-befor.jpeg)
 ![I-after](https://github.com/sadeem058/First-Week/blob/main/I-after.png)
 
 
+________
 
-
-### (ســـ) Design
+## (ســـ) Design
 
 •	Created a center-point circle and applied an extrude (depth = 20 mm).
 	•	Added a helix, and since the bracelet has one loop, set Target Revolution = 1.
@@ -18,7 +18,7 @@
 	•	Used a Boolean operation to merge all parts.
 	•	Changed the color to gold to match my bracelet.
 
-## Design Preview
+### Design Preview
 ![S-before](https://github.com/sadeem058/First-Week/blob/main/S-after.png)
 ![S-after](https://github.com/sadeem058/First-Week/blob/main/S-befor.jpeg)
 
@@ -27,8 +27,8 @@ The process was complex and time-consuming.
 Understanding and setting the plane correctly took a long time.
 
 
-
-### (Gear) Design
+______
+## (Gear) Design
 
 •	From Add Custom Features, selected Spur Gear and set:
 	•	Number of teeth = 50
@@ -46,13 +46,13 @@ Understanding and setting the plane correctly took a long time.
 • ⁠Between each two small circles is an area of ​​13.7
 • ⁠Changed the color to purple.
 
-## Design Preview
+### Design Preview
 ![Gear-before](https://github.com/sadeem058/First-Week/blob/main/Gear-befor.jpeg)
 ![Gear-after](https://github.com/sadeem058/First-Week/blob/main/Gear-after.png)
 
 
-
-### (Servo holder) Design
+______
+## (Servo holder) Design
 
 - On the Top Plane, a rectangle with dimensions (40.3 × 27.1) was created.
 - The sketch was extruded in two directions (right and left) by 10.5.
@@ -79,8 +79,8 @@ Understanding and setting the plane correctly took a long time.
 ![servo-before](https://github.com/sadeem058/First-Week/blob/main/servo-after.png)
 
 
-
-### (Base) Printing Specification
+______
+## (Base) Printing Specification
 
 This base model was printed while preserving the original **length and width** with no changes applied to its outer dimensions. The only modification performed was a **bottom carving (hollowing)** using the **Shell** tool to reduce material usage.
 
@@ -90,7 +90,7 @@ This base model was printed while preserving the original **length and width** w
 - Carving applied from the underside only
 - External geometry and top surface remain unchanged
 
-## Printing Setup
+### Printing Setup
 - Printer: AnkerMake M5C
 - Nozzle: 0.4 mm
 - Filament: ABS Because it can withstand heat and weight
@@ -99,7 +99,7 @@ This base model was printed while preserving the original **length and width** w
 - Sparse infill desity: 50%
 - Generate Support: Yes-12.75g
 
-## Design Preview
+### Design Preview
 ![Screenshot (412)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(412).png)
 ![Screenshot (411)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(411).png)
 I tried to make the dimensions of the robot as required, but I didn't change the **width** of the base, so I couldn't meet the **120mm** width requirement.
@@ -107,7 +107,7 @@ I tried to make the dimensions of the robot as required, but I didn't change the
 ![Screenshot (413)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(413).png)
 I think if the wheels get any thinner, the car won't be able to handle it.
 
-### **Last edit**
+## **Last edit**
 - 100*120 length and width
 - Bottom hollowing applied with a **0.7 ratio**
 - Hollowing created using the **Shell** tool
@@ -129,7 +129,9 @@ I think if the wheels get any thinner, the car won't be able to handle it.
 ![100](https://github.com/sadeem058/First-Week/blob/main/97.png)
 ![35](https://github.com/sadeem058/First-Week/blob/main/35.png)
 
-### Robot ARM
+
+_______
+## Robot ARM
 
 - Component Import: Inserted all essential parts into the assembly, including the base, arms (brazo, antebrazo), gears, and the gripper mechanism (garra, engranajes).
 - Base Grounding: Established the primary reference point by applying a Fastened Mate to the base del brazo, ensuring the entire structure remains stable during movement.
@@ -140,14 +142,17 @@ I think if the wheels get any thinner, the car won't be able to handle it.
 - Ancillary Parts Assembly: Used Fastened Mates to secure static components like the circuit, tapa circuito, and indicador de perilla to their respective positions.
 - Motion Validation: Tested each part individually to ensure smooth degrees of freedom and verified that there are no mechanical interferences between the moving links.
 
-## Design Preview
+### Design Preview
 
 ![Screenshot (420)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(420).png)
 ![Screenshot (421)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(421).png)
 ![Screenshot (422)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(422).png)
 
 
+_______
+## Kinematics task
 
-### Kinematics task
+### Design Preview
+
 ![task](https://github.com/sadeem058/First-Week/blob/main/task.jpeg)
 ![solve](https://github.com/sadeem058/First-Week/blob/main/solve.jpeg)
